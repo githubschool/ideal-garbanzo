@@ -1,4 +1,6 @@
-# Day 581: Getting Started with GitHub Flow
+
+# Day 1: Getting Started with GitHub Flow
+
 
 ### In Class Activities:
 - Work in the class repository together, a slide deck of images and captions.
