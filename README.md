@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers conflict testing
 
 - Class Date: May 16-17, 2018
 - Facilitator: @hectorsector
