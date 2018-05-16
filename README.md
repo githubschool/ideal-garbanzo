@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub 4 Developers
 
 - Class Date: May 16-17, 2018
 - Facilitator: @hectorsector
