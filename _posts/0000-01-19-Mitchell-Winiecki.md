@@ -7,4 +7,4 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 <h1>THUGLIFE
-:camel
+<h2>Tree Splitting
