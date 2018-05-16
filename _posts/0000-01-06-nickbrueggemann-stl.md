@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-![electrocat](https://octodex.github.com/electrocat.png)
+![electrocat](https://octodex.github.com/images/electrocat.png)
 {: .center}
 
-Caption here
+What's the story of the octocat??
