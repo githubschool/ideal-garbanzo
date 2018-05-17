@@ -31,9 +31,9 @@ Please take a moment to complete the class survey at: https://goo.gl/gyxbse.
 - [The Two Stage Commit](https://services.github.com/on-demand/images/two-stage-commit-a.jpg)
 - [Reset Modes](https://services.github.com/on-demand/images/reset-modes.jpg)
 
-### What's Next?
+### What's Next: Aziza updated this section
 
-After you have completed this course, you are probably wondering where to go from here:
+After you have completed this course, you are probably wondering where to go from here: Conflict Resolution
 
 - [GitHub's On Demand Training](https://services.github.com/on-demand/)
 - [Recommended Path for Learning More](https://services.github.com/on-demand/resources/learning-path/)
